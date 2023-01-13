@@ -8,3 +8,4 @@ gradlew.bat
 gradlew
 gradle.properties
 settings.gradle
+.DS_Store
