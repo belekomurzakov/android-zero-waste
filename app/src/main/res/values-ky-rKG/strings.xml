@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ZeroWaste</string>
+    <string name="failed_item">Bölüktör cüktölgön coq</string>
+    <string name="no_internet_connection">Internet bajlanyşy coq</string>
+    <string name="category">Qateğorija</string>
+    <string name="back">Artqa</string>
+    <string name="choose_category">Qateğorija tanda</string>
+    <string name="dialog_description">Süröt bojunça sorttoo ce qajsy qateğorijağa taandyq ekenin qol menen tandañyz</string>
+    <string name="choose_way">Sorttoo yqmasyn tandañyz</string>
+    <string name="scan_photo">Süröttü sqandoo</string>
+    <string name="analyze">Taldoo</string>
+    <string name="pick_photo">Süröt tandoo</string>
+    <string name="machine_identifies">Maşina bul obʼektti tömönküdöj anyqtajt:</string>
+    <string name="years">cyl</string>
+    <string name="last_time">Aqyrqy sandar</string>
+    <string name="items">bujumdar</string>
+    <string name="sort_it">Sorttoo!</string>
+    <string name="enter_number">Nomerin caz</string>
+    <string name="cancel">Coqqo çyğaruu</string>
+    <string name="confirm">Yrastoo</string>
+    <string name="number">San</string>
+    <string name="date_time">Kün/Uwaqyt</string>
+    <string name="sort_now">Sorttoo!</string>
+    <string name="last_actions">Aqyrqy iş-çaralar</string>
+    <string name="save_the_planet">Planetany saqta</string>
+</resources>

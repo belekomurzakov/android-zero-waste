@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Zero Waste</string>
+    <string name="failed_item">Failed to load the detail.</string>
+    <string name="no_internet_connection">No internet connection</string>
+    <string name="category">Category</string>
+    <string name="back">Back</string>
+    <string name="choose_category">Choose a category</string>
+    <string name="dialog_description">Sort by photo or choose which category the item belongs to manually</string>
+    <string name="choose_way">Choose a way to sort</string>
+    <string name="scan_photo">Scan a photo</string>
+    <string name="analyze">Analyze</string>
+    <string name="ml_model" translatable="false">mobilnet.tflite</string>
+    <string name="pick_photo">Pick photo</string>
+    <string name="machine_identifies">Machine identifies this object as:</string>
+    <string name="years">years</string>
+    <string name="last_time">Last time you recycled</string>
+    <string name="items">items</string>
+    <string name="sort_it">Sort it!</string>
+    <string name="enter_number">Enter number</string>
+    <string name="cancel">Cancel</string>
+    <string name="confirm">Confirm</string>
+    <string name="number">Number</string>
+    <string name="date_time">Date/Time</string>
+    <string name="sort_now">Sort Now!</string>
+    <string name="last_actions">Last actions</string>
+    <string name="save_the_planet">Save the Planet</string>
+</resources>
