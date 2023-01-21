@@ -24,7 +24,7 @@ Keep track of your sorting history and take advantage of the cutting-edge machin
 <img width="220" alt="history_detail" src="https://user-images.githubusercontent.com/89274213/213871448-60be8013-fda5-4040-a3f0-1990a08c08f4.png">
 </p>
 
-## Localization Support for Latin Kyrgyz
+## Localization Support for Latin Kyrgyz 🇰🇬
 <p align="center">
 <img width="220" alt="localization" src="https://user-images.githubusercontent.com/89274213/213871453-de0f15a0-f583-47d6-9307-8e9bc0a0e002.png">
 <img width="220" alt="localization_2" src="https://user-images.githubusercontent.com/89274213/213871452-1ee2b957-ec0d-40e4-b8f5-49efdbe68c13.png">
